@@ -10,7 +10,7 @@ In addition to awarding 1st through 3rd place prizes, we are offering special bo
 
 Be sure to share your creations on Twitter and tag us using the hashtag #GeospatialAPIChallenge for a chance to be featured on @GoogleARVR! 
 
-We’re excited to see what you create when the world is your canvas! 
+We’re excited to see what you create for the world ! 
 
 #PROJECT DESIGN 
  Desing Parts
